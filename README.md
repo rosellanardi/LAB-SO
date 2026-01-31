@@ -4,7 +4,7 @@ Bienvenidos a nuestros labs de Sistemas Operativos🚀
 
 Este repositorio contiene los laboratorios que realizamos junto con mis compañeros Agustin, Luciano y Tomas. Cada línea de código es el resultado de muchas horas de trabajo, aprendizaje y risas compartidas. 💙
 
-1️⃣ Entender Sistemas Operativo: Comprender cómo se implementan sus componentes y su funcionamiento interno.
+1️⃣ Entender Sistemas Operativos: Comprender cómo se implementan sus componentes y su funcionamiento interno.
 
 2️⃣ Lectura de Código: Mejorar la capacidad de analizar y entender proyectos grandes con estructuras complejas.
 
